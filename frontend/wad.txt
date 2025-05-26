@@ -1,0 +1,73 @@
+- Dashboard Sidebar Navigation:
+  - Dashboard Overview (main metrics)
+  - Products Management
+    - Add new product
+    - Edit existing
+    - Inventory levels
+    - Categories
+  - Orders
+    - New orders
+    - Order processing
+    - Shipping status
+    - Returns
+  - Customers
+    - Customer list
+    - Purchase history
+    - Loyalty program
+  - Sales Analytics
+    - Revenue reports
+    - Best sellers
+    - Sales trends
+  - Marketing
+    - Promotions
+    - Email campaigns
+    - Discount codes
+  - Settings
+    - Website settings
+    - Payment methods
+    - Shipping options
+
+
+
+
+    //Website
+    - Homepage
+  - Featured perfumes
+  - Promotional banners
+  - New arrivals
+  - Testimonials
+
+- Product Catalog
+  - Categories (Men, Women, Unisex)
+  - Brands
+  - Search functionality
+  - Filter options (price, scent type, etc.)
+
+- Product Pages
+  - High-quality images
+  - Detailed descriptions
+  - Scent notes
+  - Size options
+  - Customer reviews
+  - Related products
+
+- Shopping Cart
+  - Item management
+  - Quantity adjustment
+  - Coupon code entry
+
+- Checkout
+  - Guest checkout option
+  - Shipping options
+  - Payment gateway integration
+  - Order confirmation
+
+- User Account
+  - Order history
+  - Wishlist
+  - Address book
+  - Profile settings
+
+- About Us
+- Contact Page
+- Blog (optional for SEO)
